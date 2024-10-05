@@ -1,3 +1,4 @@
+Output .github/images/out.gif
 Set Shell zsh
 Sleep 1s
 Type "bun run index.ts"
