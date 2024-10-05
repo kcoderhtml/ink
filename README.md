@@ -2,6 +2,8 @@
 
 Ink is a project to provide a simple way to log requests and the content of those requests
 
+![gif of the program in action](out.gif)
+
 # Running
 To install dependencies:
 
