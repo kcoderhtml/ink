@@ -1,14 +1,14 @@
-<h1 align="center">Ink</h1>
+t<h1 align="center">Ink</h1>
 
 <p align="center">
-  <img width="460" height="460" src=".github/images/logo.png">
+  <img width="460" height="460" src="https://github.com/kcoderhtml/ink/raw/master/.github/images/logo.png">
 </p>
 
 Ink is a project to provide a simple way to log requests and the content of those requests
 
 ---
 
-![gif of the program in action](.github/images/out.gif)
+![gif of the program in action](https://github.com/kcoderhtml/ink/raw/master/.github/images/out.gif)
 
 # Running
 To install dependencies:
