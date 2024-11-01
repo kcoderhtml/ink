@@ -1,4 +1,4 @@
-t<h1 align="center">Ink</h1>
+<h1 align="center">Ink</h1>
 
 <p align="center">
   <img width="460" height="460" src="https://github.com/kcoderhtml/ink/raw/master/.github/images/logo.png">
